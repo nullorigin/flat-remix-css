@@ -1,8 +1,8 @@
 # [Flat-Remix-CSS-library](http://drasite.com/flat-remix-css)
 
 ###### Flat-Remix is licensed under the MIT License
-<hr>
 
+<hr>
 
 Flat Remix Palette
 ------------------
@@ -47,7 +47,7 @@ Heading 1
 ``` html
  <h1>Heading 1</h1>
 ```
- 
+
 Heading 2
 ---------
 
@@ -128,11 +128,13 @@ Form elements
 ```
 
 ##### Textarea
+
 ``` html
   <textarea></textarea>
 ```
 
 ##### Checkbox
+
 ``` html
     <label>
         <input type="checkbox" name="my-checkbox" checked> Select me
@@ -140,9 +142,10 @@ Form elements
     <label>
         <input type="checkbox" name="my-checkbox"> Select me
     </label>
-``` 
+```
 
 ##### Input Radio
+
 ``` html
     <label>
         <input type="radio" name="my-input-radio" checked> Select me
@@ -153,6 +156,7 @@ Form elements
 ```
 
 ##### Checktext
+
 ``` html
     <label class="checktext">
         <input type="radio" name="my-checktext" checked>
@@ -165,6 +169,7 @@ Form elements
 ```
 
 ##### On/Off Switch
+
 ``` html
     <label class="onoffswitch">
     <input type="checkbox" name="my-switch">
@@ -173,6 +178,7 @@ Form elements
 ```
 
 ##### Buttons
+
 ``` html
   <button class="blue-button">save</button>
 ```
@@ -188,6 +194,7 @@ Form elements
 ``` html
   <button class="rounded-button">+</button>
 ```
+
 <br>
 <hr>
 <br>
